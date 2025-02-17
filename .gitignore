@@ -1,1 +1,4 @@
 site/
+
+# Visual Studio cache/options directory
+.vs/
