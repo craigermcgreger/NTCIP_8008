@@ -41,7 +41,7 @@ This project uses the following tools:
 - MkDocs
 - Material for MkDocs
 
-The proess to install the local environment is defined in the
+The process to install the local environment is defined in the
 [documentation conventions](https://k-vaughn.github.io/ITS-open-source/)
 of the [ITS Open-Source Process](https://k-vaughn.github.io/ITS-open-source/)
 with no exceptions or extensions.

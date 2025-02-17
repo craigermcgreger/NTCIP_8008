@@ -19,7 +19,7 @@ In addition to the development tools needed to manage and submit any
 contribution within the Git environment (e.g., Git, GitHub), developing project
 documentation requires the following tools:
 
-- **A text editor,** which is used to create and edit markdwon and yaml files,
+- **A text editor,** which is used to create and edit markdown and yaml files,
 - **Python,** which is required to run MkDocs,
 - **MkDocs,** which is an open-source tool for translating a set of markdown
   files into a static website, and
@@ -42,7 +42,7 @@ edits. Generating the documentation website locally from a known baseline allows
 the contributor to verify that the development environment is working correctly
 prior to introducing edits to the files. Contributors are required to generate
 the documentation locally to verify that their proposed changes do not introduce
-any errors to the project. The MkDocs development environemnt allows users to
+any errors to the project. The MkDocs development environment allows users to
 see their changes in real time so that any errors can be addressed quickly.
 
 ### Text Editor {.annex}
@@ -139,7 +139,7 @@ file. Major portions are defined as:
 
 - the title page, which shall be `index.md`;
 - each top-level section of the front matter (e.g., Foreword, Introduction);
-- each section in the body of the docuemnt; and
+- each section in the body of the document; and
 - each annex.
 
 The document structure **shall** be reflected in the project's `mkdocs.yml` file
@@ -251,8 +251,8 @@ Each file representing a section of the main body of the document **shall**:
 
 Each file representing an annex of the document **shall**:
 
-- Start with code that sets the section counter for the annex to the numberical
-  order of the annex (the script will transofmr this into an alphabetic letter)
+- Start with code that sets the section counter for the annex to the numerical
+  order of the annex (the script will transform this into an alphabetic letter)
 - Include a single level 1 heading that has the same title as defined in the
   `nav` section of the `mkdocs.yml` file and occurs immediately after the code
   defining the section number
@@ -319,7 +319,7 @@ after the hash symbols and a space.
 - Create ordered lists using numbers followed by a period (`1.`, `2.`, etc.).
 - Create unordered lists using hyphens (`-`).
 - The line before a list must be blank and a list cannot be immediately
-  precedded by a different list
+  preceded by a different list
 - The style for the list is defined by the first list item
 
 !!! example

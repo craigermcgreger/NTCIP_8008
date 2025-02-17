@@ -117,6 +117,6 @@ The remainder of this document is broken into the following chapters:
   ASN.1.
 - **Requirements Management:** Defines preferred ways to use requirement
   management tools to produce content that can be easily integrated into the ITS
-  open-source pojects while providing clear traceability.
+  open-source projects while providing clear traceability.
 
 [^move to 8001]: TODO: Move the approval process to NTCIP 8001

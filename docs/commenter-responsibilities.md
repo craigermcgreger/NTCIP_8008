@@ -33,7 +33,7 @@ them as issues.
 ### Issues {.body}
 
 Every project should follow a plan. Within the ITS Open-Source Process, the plan
-is documented by defining issues that are to be addressed, preferrably according
+is documented by defining issues that are to be addressed, preferably according
 to assigned priorities.
 
 The issues tab provides an open forum where any interested party can propose
@@ -45,7 +45,7 @@ issue.
 When an issue is submitted, the project maintainer is responsible for triaging
 the issue. Triaging includes reviewing the issue, determining if the issue fits
 within the project plan, potentially parsing or merging the issue to create
-easily managable tasks, assigning appropriate priority and tags (e.g., bug,
+easily manageable tasks, assigning appropriate priority and tags (e.g., bug,
 ambiguity, editorial) to the issue, and gaining consensus on the approach. This
 process can involve working with others on the project team to ensure consensus
 on the decisions being made.
@@ -86,7 +86,7 @@ The commenter **shall** comply with all instructions on the selected commenting
 template without deleting any fields.
 
 !!! note
-    Includion of all fields facilitates processing of the comment and prevents
+    Inclusion of all fields facilitates processing of the comment and prevents
     automatic rejection. If a section of the template is not applicable, either
     explain why it is not needed or write "N/A".
 

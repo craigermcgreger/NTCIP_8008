@@ -59,7 +59,7 @@ the submittal of issues that need to be resolved to clarify the standard.
 
 Issues can be submitted at any time. Issues are triaged by the project
 maintainer, who will evaluate their merit, classify them (e.g., as a bug,
-documentation issue, ommission), and in most cases respond to the submitter.
+documentation issue, omission), and in most cases respond to the submitter.
 Once ready, issues will be available for contributors to volunteer to address.
 When a volunteer has a proposed solution, it can be submitted to the project and
 approved in a relatively short period (when compared to the traditional

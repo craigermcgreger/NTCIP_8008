@@ -54,7 +54,7 @@ be submitted at any time.
 
 When comments are submitted, maintainers (and other followers) are notified. If
 the comment is submitted as an issue (as opposed to a discussion item), the
-maintainer triages the issue by determing its relevance, classification (e.g.,
+maintainer triages the issue by determining its relevance, classification (e.g.,
 bug, documentation issue), and priority. If needed, the maintainer can discuss
 the issue with the commentor or sponsoring WG to ensure consensus from the
 broader community. As a result of the review, the issue can be accepted, merged
@@ -73,7 +73,7 @@ to solve issues or implement features. Contributors gain experience and
 recognition, while the project benefits from a broader range of solutions.
 
 Interested contributors browse the list of open issues, claim one they are
-interested in, and start working on a solution. When they have develped and
+interested in, and start working on a solution. When they have developed and
 tested their proposed solution, they submit a request for the maintainer to
 "pull" a copy of their changes from their site. This is known as a pull request
 (PR).

@@ -221,7 +221,7 @@ be the [Gnu Lesser General Public License Version 3](https://www.gnu.org/license
 
 !!! note
     The LGPL v3 license is designed for compilable software that runs on a machine.
-    Like the CC BY license, it allows uers to use, distribute, modify, and contribute
+    Like the CC BY license, it allows users to use, distribute, modify, and contribute
     material as long as they give attribution to the original source and does not
     provide any rights to the names, trademarks, or logos of the original source.
 
@@ -364,7 +364,7 @@ define a `docs/index.md` file that provides a cover page for the document.
 
 If the project includes documentation using MkDocs, the maintainer **shall**
 define a `docs/stylesheets/extra.css` file that defines the heading styles to
-be used for the body and the annexes (i.e., adding setion numbers in front of
+be used for the body and the annexes (i.e., adding section numbers in front of
 headings).
 
 The maintainer **shall** ensure that this badge only changes per the approval
@@ -575,7 +575,7 @@ address the issue)
 
 ### Triaging Bugs {.body}
 
-The maintainer **should** verify the existance of any reported bug.
+The maintainer **should** verify the existence of any reported bug.
 
 !!! note
     If the maintainer expects to assign the issue to himself, the verification
@@ -684,7 +684,7 @@ the contribution works as expected without introducing errors.
 
 #### Automated Testing {.body}
 
-The maintainer **should** maintain automated tests to protext against errors.
+The maintainer **should** maintain automated tests to protect against errors.
 
 !!! note "GitHub Help"
     GitHub allows maintainers to set up an automated test suite that runs on
@@ -882,13 +882,13 @@ requests and post this schedule within the discussion forum.
 
 !!! note
     It is important to set expectations as to how fast maintenance issues are
-    likely to be addressed. This timline might vary considerably across ITS
+    likely to be addressed. This timeline might vary considerably across ITS
     open-source projects and during teh lifetime of any one project (e.g.,
-    there are often periods of moew active development and less active
+    there are often periods of more active development and less active
     development).
 
 The maintainer **should** set up [GitHub Actions](https://docs.github.com/en/actions)
-to automate responses that welcomes each new contributor and provides an estimated
+to automate responses that welcome each new contributor and provide an estimated
 time by which the issue triage or PR review can be expected
 
 !!! note

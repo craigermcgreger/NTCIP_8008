@@ -51,7 +51,7 @@ significant issue and how various issues should be handled.
 !!! note
     Many issues can be prioritized by the maintainer without involving the WG;
     however, when major issues arise that affect the direction of the project,
-    it is best to obtain direction from the WG to ensure resoures are managed
+    it is best to obtain direction from the WG to ensure resources are managed
     properly.
 
 ## Pull-Request Approval {.body}

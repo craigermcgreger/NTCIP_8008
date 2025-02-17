@@ -214,7 +214,7 @@ first issue".
 ### Create a Branch {.body}
 
 Prior to starting work on a claimed issue, the contributor **shall** create a
-separate branch for all edits related to that singlular issue.
+separate branch for all edits related to that singular issue.
 
 !!! note
     Creating a separate branch facilitates tracking of changes and allows
@@ -318,7 +318,7 @@ Here are some examples of Conventional Commit messages:
 
 Once the contributor has completed the proposed revisions and has created a
 local commit, the contributor **shall** push the proposed changes to the
-contriutor's online repository.
+contributor's online repository.
 
 !!! note
     The changes need to be posted to the online repository so that other
@@ -338,7 +338,7 @@ other failures upon submitting the PR.
 
 !!! note
     In order to ensure that changes made to the shared repository fit with
-    the project plan, follow subittal guidelines, and are free of bugs, it is
+    the project plan, follow submittal guidelines, and are free of bugs, it is
     important that they are reviewed before being incorporated. As such, rather
     than allowing each contributor to push changes to the shared repository
     without any review, they **request** the maintainer to **pull** the proposed
